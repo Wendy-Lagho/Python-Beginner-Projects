@@ -14,5 +14,5 @@ cd beginner-python-projects/Rock Paper Scissors
 ```
 2. **Run the game**
 ```
-madlibs.py
+rock_paper_scissors.py
 ```
