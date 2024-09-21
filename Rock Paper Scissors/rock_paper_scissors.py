@@ -21,3 +21,8 @@ def is_win(player, computer):
         return True
 
 print(play())
+
+
+
+
+
