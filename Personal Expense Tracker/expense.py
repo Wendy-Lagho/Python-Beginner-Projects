@@ -1,4 +1,3 @@
-# expense.py
 
 class Expense:
     def __init__(self, name, amount, category):
