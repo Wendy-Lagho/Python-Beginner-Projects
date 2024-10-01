@@ -1,4 +1,3 @@
-# tracker.py
 
 class ExpenseTracker:
     def __init__(self):
