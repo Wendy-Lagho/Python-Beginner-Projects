@@ -1,4 +1,5 @@
 # Root .gitignore
+
 Contact Book Application/contacts.csv
 __pycache__/
 .idea/
